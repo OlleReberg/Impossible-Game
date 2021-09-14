@@ -1317,3 +1317,87 @@ Received Import Request.
   path: Assets/Scenes/MainScene.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/MainScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f216b51fb3091c83642c8aa95d4940') in 0.052479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1397.419664 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png
+  artifactKey: Guid(bda260f0d5466634b98a31a0e6712b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png using Guid(bda260f0d5466634b98a31a0e6712b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e394326d25439b7926d14f0c8ea1eb') in 0.672881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001186 seconds.
+  path: Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png
+  artifactKey: Guid(64bd33a19f6560c44beb1c4f43c5933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png using Guid(64bd33a19f6560c44beb1c4f43c5933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030a4c2b1b8706acedd42c026ea659e2') in 0.085715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008222 seconds.
+  path: Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png
+  artifactKey: Guid(04a1972b329c3eb409c4235494a33304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png using Guid(04a1972b329c3eb409c4235494a33304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b41ccad989b098f25885c471a54cd13') in 0.077018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001123 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png
+  artifactKey: Guid(539182a2c349c35498073826d2f11ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png using Guid(539182a2c349c35498073826d2f11ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26f9f7848e874e79453982af0bac7e1') in 0.076696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001267 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png
+  artifactKey: Guid(00ab281b0164bde4e8a7f65d87280e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png using Guid(00ab281b0164bde4e8a7f65d87280e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5db7d83919c41fb66898452afc75831') in 0.140087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001083 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png
+  artifactKey: Guid(168c942b9800e384a9adc7c76046db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png using Guid(168c942b9800e384a9adc7c76046db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e728e83288aee91d29a90ddac33d6a8') in 0.170611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001926 seconds.
+  path: Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png
+  artifactKey: Guid(808edb2c82dccc54a8cb2ff7c27690d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png using Guid(808edb2c82dccc54a8cb2ff7c27690d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d6dcc4fb561cd568ac4b812e1f82f7') in 0.132916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000965 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png
+  artifactKey: Guid(7b67b0f1d5270374d968ae4e9db395e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png using Guid(7b67b0f1d5270374d968ae4e9db395e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768ce7cec0714fb9439be3af9b53d38e') in 0.153796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001619 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png
+  artifactKey: Guid(62a21f8d99e40ae45be1fa88c8d7095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png using Guid(62a21f8d99e40ae45be1fa88c8d7095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be97ec9f3bedcdd4a97248796cc47b52') in 0.109082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001169 seconds.
+  path: Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png
+  artifactKey: Guid(ff8ca14497a5ab14d9a534b5fcdcd77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png using Guid(ff8ca14497a5ab14d9a534b5fcdcd77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7588cb84785f3ff296f92a3d45fb5b7a') in 0.101633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001245 seconds.
+  path: Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png
+  artifactKey: Guid(502b70dc93e8f5a48969cedb7ee7f724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png using Guid(502b70dc93e8f5a48969cedb7ee7f724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a68a1bb9bc6ed413ba203345616d3d') in 0.087948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1485.661987 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(ba859e01e3bac814282a2cb6f79eed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(ba859e01e3bac814282a2cb6f79eed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bb4ec1c993d9d32ec3948a244e271f') in 0.022232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.925791 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ba9e5cd6bdc75903e52e0b4729a854') in 0.013965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.602935 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(ba859e01e3bac814282a2cb6f79eed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(ba859e01e3bac814282a2cb6f79eed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ec847e180ca862bf07f4d5498313f8') in 0.019027 seconds 
