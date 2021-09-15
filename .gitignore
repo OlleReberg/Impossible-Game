@@ -25,6 +25,15 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Ignore any file ending with XYZ
+*.XYZ
+
+# Ignore scripts directory root level
+/Scripts/
+
+# Ignore this file specifically
+Assets/Scripts/Somefile.png
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -35,3 +44,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.log
+*.log
+
+# Extra
+[Uu]serSettings\*
+[Ll]ogs\*
