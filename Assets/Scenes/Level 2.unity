@@ -1061,6 +1061,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7931939819737178171, guid: eb4574fe1ebbd844da7eaee93a0c86bb, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"JumpStrength","value":{"$content":9.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 484225375811576157, guid: eb4574fe1ebbd844da7eaee93a0c86bb, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -1142,6 +1146,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -2368994772181437357, guid: 3e234ffafadf90f46a9373fcf9b3e5db, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"WinMessage","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 8441772608987411873, guid: 3e234ffafadf90f46a9373fcf9b3e5db, type: 3}
       propertyPath: m_IsTrigger
       value: 0
